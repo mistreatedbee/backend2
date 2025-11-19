@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mobilehealth-a2112",
+  "private_key_id": "7365faa608cf459645f44d43017c8a6adeb3789a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCoHa0AIog0l1BP\nKACCDYfzf1dKj7PRNQJ6qSq7XuumWEtkRjdZNjgBZHvxNSitMuJAdI6OATR9KRfm\nzj3Zy7FcgXkaQG08BcTVHtjYj1KRSce3RbwqWIg07Lf9pMKRUXOmDqLynRtSNpEl\nOFxjJsTdGNIg2DFeQZN/rDklGUVgY7ga0siesqYHK8YzP6hhXUzH3TZPVPBvjiH+\nV1Vb44QvgRffnN0uM+cW+HQjmbYDiSZLYyb3y1XEs5q0/v5UHkPZOO77qCarPxXR\n0E4yIvaEsScPHqnG7en5OZV9AWFgB27dH96yqs0CyWYKrVfg1Ic+uO50uhoTBC7I\n1XWqCz0HAgMBAAECggEAA8/Ycl5WFEsyCPlxOYGxCXZjtk8X1rCLA9j+HQ2D7lum\nKfnlm2I9Vtq+bLO13md+9dMuwE2KsSPTZOpcQKn7tYtCAbRgRbIjymlOpWpqhtzT\naHZuU896Fyke6uNnfgAIzUUbsMCbM/wEwoFKpvzkDddYPGJqjCaUf5qaGRs/lXXj\n8HUNf4hHNvgF7GXkbvcb834h+g0RS8YxeWUO3MTmh5yCt1AClM94nu4JsSSiRjWa\nNXfgCHX4YesW1P7LHEBzVpb77aiKhL3QEy9/DGPMGNnybbEpMXVLa7EO/O+Qm2xQ\npKdVQxvC0tVkapQIadBAOgUB/e5MoGXlAk8C1WdzgQKBgQDg8xNdd5FkXoB0PFSx\nfRu42hz2Hah+PVqOFF9xVwvYgOAxreQu6ffM386CtwYbnlOypLMxQX6bsbzutivJ\nCDpYmFuxqc5HG4G9JfG34vDLQJSaB6gxTzZOql87jSUXppoxGmL3c4rxERpfH8Zq\nS7zGTl1Jpgce304/jqWCn6btZwKBgQC/Uk0JMzpHpVri8nhuTWwk4VUv9/Q5i4cW\nkawLq/1Y5vSRdzH69aslLAZY7hInK7C6cZzAP8Y1GOlzIVgvmoXtfGpqWFEOizQT\nPrilfThJeYJRI8lautH8TQwxoCyljHn6aCAl4OLiu41j83A7ehqAzmEnkwq+ySe8\n41uCpWPPYQKBgQDBmDDoVcjpCnOelXWGMtey5PPb1HZ3/rF6aYoibvmg4HkSCEfD\nIFTFGzANSxqUllQOALS/BVDDCdpBzsIsB0q/iJARfMQsaj3j3U4EJel54yCA12om\n1bc1SGchRz3O9vDopX7a27ON+Fwr1ZrbTEcwm6ypf5vNM/2RsWA75M6yrQKBgEws\nS2mnUMPnzQjguxxHjRAd+xnPIhirOcy9kP9Qqdz0j1k/WNHvcAWrwpczqlyYI5QH\n2f4dJiBL296v3vmND1efmorewN8Gg2RKK6AP/BIc48rEcc3C5goK7xjvCfebt5EA\nVhRetlbJj6DE8uFrWxP/l2T3QWb2lfC5oNyiVtvhAoGBANvbbo0HxA9S403YL2p6\n9YV1h+G9UFNMteDIEIZ0g9fU7fP+pzUR+WKHEdyzid7n/pcsZ4gXGWWIiDCA5FOw\n5N0wfhCka/216QCdIsKvCstGAEynlrmtIrqF9j8ylVEJOcCCBD1Yh8hcyL1570Mc\n58Hh/C56ajXQq4a+4MN/UfST\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@mobilehealth-a2112.iam.gserviceaccount.com",
+  "client_id": "114506338252404367309",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40mobilehealth-a2112.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
